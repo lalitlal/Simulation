@@ -8,6 +8,18 @@ https://youtu.be/RHVkoMmS28c
 ## Description
 
 This project covers Fluid Simulation using 2D SPH.
+* Low Viscosity, Single Stream
+![](gifs/ss_lowv.gif)
+* High Viscosity, Single Stream
+* Low Viscosity, Multi Stream
+* High Viscosity, Multi Stream
+* Low Viscosity, Dam
+* High Viscosity, Dam
+
+
+
+
+
 
 ## Getting Started
 
