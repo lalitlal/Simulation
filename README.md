@@ -21,7 +21,7 @@ This project covers Fluid Simulation using 2D SPH.
 
 ### Executing program
 
-In part1_estimate_depth.py, there are 2 flags you can tune:
+In 2d_spy.py, there are 2 flags you can tune:
 * mu -> float between [0.2 - 5] -> this sets the viscosity (lower = lower viscosity)
 * scene -> choices are either 'ss', 'ms', or 'dam', describing a single stream, multistream, or dam break scenario
 
