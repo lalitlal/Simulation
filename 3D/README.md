@@ -1,4 +1,5 @@
 # 3D FEM and Cloth Simulations
+Ask me about the code! :) 
 
 * 3D Armadaillo FEM Simulation
 ![](../gifs/arma_gif.gif)
